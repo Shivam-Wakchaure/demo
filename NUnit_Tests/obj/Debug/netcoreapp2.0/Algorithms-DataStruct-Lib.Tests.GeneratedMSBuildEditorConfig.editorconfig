@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Algorithms.DataStruct.Lib.Tests
+build_property.ProjectDir = C:\Personal\C#\Algorithms-Course-Source\Algorithms-CSharp-Course\NUnit_Tests\
